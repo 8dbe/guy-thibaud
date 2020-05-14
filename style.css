@@ -1,0 +1,11 @@
+
+.tibo {
+  color: yellow;
+  font-size: 2rem;
+
+}
+.fond{
+  background-image: url("background1.jpeg" ); 
+  background-size: cover;
+  height: 100%;
+}
